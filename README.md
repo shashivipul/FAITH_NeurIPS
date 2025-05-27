@@ -23,9 +23,9 @@ pip install numpy==1.21.6 scipy==1.7.3 torch==1.6.0 dgl==0.6.1 scikit-learn==1.0
 To run the FAITH framework in the transductive (0)/ inductive(1) setting with a **SAGE** teacher on the **Cora** dataset, use the following command:
 
 ```bash
-python3 train.py --teacher SAGE --exp_setting 0 --data_mode 0
+python3 train.py --teacher SAGE --exp_setting 0 --dataset cora
 
-python3 train.py --teacher SAGE --exp_setting 1 --data_mode 0
+python3 train.py --teacher SAGE --exp_setting 1 --dataset cora
 
 ```
 
