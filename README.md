@@ -6,9 +6,6 @@ This repository contains the source codes for our paper.
 
 This repository contains the source code for the **FAITH** framework. Below is an overview of its structure and instructions for running experiments.
 
-## Repository Structure
-
-
 
 ## Requirements
 
